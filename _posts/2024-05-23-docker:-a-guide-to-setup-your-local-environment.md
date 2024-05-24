@@ -1,60 +1,59 @@
-**Getting Started with Docker**
+# Getting Started with Docker
 
-Its simple to start using Docker for your local development environment, just follow these steps:
+It's simple to start using Docker for your local development environment, just follow these steps:
 
 1. **Ensure Docker is Running**
-  Check that you have the Docker application up and running on your computer.
+   - Check that you have the Docker application up and running on your computer.
 
 2. **Navigate to Devilbox Directory**
-   Launch the terminal and navigate to the Devilbox directory using the command:
-   ```
-   cd ~/Development/devilbox
-   ```
+   - Launch the terminal and navigate to the Devilbox directory using the command:
+     ```
+     cd ~/Development/devilbox
+     ```
 
 3. **Start the Environment**
-   Start the entire environment by running the following command:
-   ```
-   docker-compose up -d php php81 httpd mysql
-   ```
+   - Start the entire environment by running the following command:
+     ```
+     docker-compose up -d php php81 httpd mysql
+     ```
 
 4. **Stopping the Environment**
-   In order to stop all Docker services, use the command:
-   ```
-   docker-compose stop
-   ```
+   - In order to stop all Docker services, use the command:
+     ```
+     docker-compose stop
+     ```
 
-**Getting to Work**
+## Getting to Work
 
 Make sure you have two terminal tabs open for easy development:
 
-1. **Mac Terminal (mac-shell):**
-   Go to your project directory using:
+### Mac Terminal (mac-shell):
+1. Go to your project directory using:
    ```
    cd ~/Development/www/your_project_directory
    ```
-   If navigating here for the first time, run `composer install` or `composer update` to set up dependencies.
+   - If navigating here for the first time, run `composer install` or `composer update` to set up dependencies.
 
-2. **Devilbox Shell (devilbox-shell):**
-   a. Navigate to the Devilbox directory:
-      ```
-      cd ~/Development/devilbox
-      ```
-   b. Run Devilbox shell script:
-      ```
-      ./shell81.sh
-      ```
-   c. Enter your project directory:
-      ```
-      cd evbox.com
-      ```
-      (Run `composer install` or `composer update` if needed.)
+### Devilbox Shell (devilbox-shell):
+1. Navigate to the Devilbox directory:
+   ```
+   cd ~/Development/devilbox
+   ```
+2. Run Devilbox shell script:
+   ```
+   ./shell81.sh
+   ```
+3. Enter your project directory:
+   ```
+   cd evbox.com
+   ```
+   - Run `composer install` or `composer update` if needed.
+4. Start watching for changes:
+   ```
+   npm run watch
+   ```
 
-   d. Start watching for changes:
-      ```
-      npm run watch
-      ```
-
-**Mac-Shell Commands:**
+### Mac-Shell Commands:
 - Use Git
 - Open the project in Visual Studio Code:
   ```
@@ -66,7 +65,7 @@ Make sure you have two terminal tabs open for easy development:
   npm install
   ```
 
-**Devilbox-Shell Commands:**
+### Devilbox-Shell Commands:
 - Run Node.js:
 - Run Gulp tasks:
   ```
@@ -78,7 +77,7 @@ Make sure you have two terminal tabs open for easy development:
   composer update
   ```
 
-**Stylelint Commands:**
+### Stylelint Commands:
 In case of pipeline failures, use:
 ```
 npm run eslint
@@ -86,7 +85,7 @@ npm run stylelint
 npm run stylefix // Auto-fix style issues
 ```
 
-**SSH Key Password for Bitbucket:**
+### SSH Key Password for Bitbucket:
 If prompted for an SSH key password:
 1. Run in any terminal window:
    ```
@@ -96,16 +95,13 @@ If prompted for an SSH key password:
 2. Enter the password. Retrieve it from Keychain Access by searching for `id_ed`.
    Right-click on the relevant entry and copy the password.
 
-**Devilbox Dashboard:**
+### Devilbox Dashboard:
 Access the Devilbox dashboard at [http://localhost/index.php](http://localhost/index.php).
 
-**Tip:**
+### Tip:
 To copy your SSH key, run:
 ```
 cat ~/.ssh/id_rsa.pub
 ```
 
 With these steps, you should be ready to start using Docker for your local environment.
-
-
-

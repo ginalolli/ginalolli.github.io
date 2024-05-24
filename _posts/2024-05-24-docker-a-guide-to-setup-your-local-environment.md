@@ -1,3 +1,5 @@
+# Docker: A Guide To Setting Up Your Local Development Environment
+
 ## Getting Started with Docker
 
 It's simple to start using Docker for your local development environment, just follow these steps:
@@ -66,11 +68,14 @@ Make sure you have two terminal tabs open for easy development:
 ### Mac-Shell Commands:
 - Use Git
 - Open the project in Visual Studio Code:
+  
   ```
   cd ~/Development/www/your_project_directory
   code .
+  
   ```
-- Install Node.js modules:
+- Install Node.js modules
+  
   ```
   npm install
   ```
@@ -78,17 +83,21 @@ Make sure you have two terminal tabs open for easy development:
 ### Devilbox-Shell Commands:
 - Run Node.js:
 - Run Gulp tasks:
+  
   ```
   gulp compile
   gulp watch
   ```
+  
 - Manage Composer:
+  
   ```
   composer update
   ```
 
 ### Stylelint Commands:
 In case of pipeline failures, use:
+
 ```
 npm run eslint
 npm run stylelint
@@ -96,20 +105,25 @@ npm run stylefix // Auto-fix style issues
 ```
 
 ### SSH Key Password for Bitbucket:
+
 If prompted for an SSH key password:
 1. Run in any terminal window:
+
    ```
    eval "$(ssh-agent -s)"
    ssh-add
    ```
-2. Enter the password. Retrieve it from Keychain Access by searching for `id_ed`.
+   
+3. Enter the password. Retrieve it from Keychain Access by searching for `id_ed`.
    Right-click on the relevant entry and copy the password.
 
 ### Devilbox Dashboard:
 Access the Devilbox dashboard at [http://localhost/index.php](http://localhost/index.php).
 
 ### Tip:
+
 To copy your SSH key, run:
+
 ```
 cat ~/.ssh/id_rsa.pub
 ```

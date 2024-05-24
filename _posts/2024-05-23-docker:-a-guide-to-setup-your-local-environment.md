@@ -1,4 +1,4 @@
-# Getting Started with Docker
+## Getting Started with Docker
 
 It's simple to start using Docker for your local development environment, just follow these steps:
 

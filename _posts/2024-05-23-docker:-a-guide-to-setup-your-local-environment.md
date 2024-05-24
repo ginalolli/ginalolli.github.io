@@ -2,23 +2,23 @@
 
 It's simple to start using Docker for your local development environment, just follow these steps:
 
-1. **Ensure Docker is Running**
-   - Check that you have the Docker application up and running on your computer.
 
-2. **Navigate to Devilbox Directory**
-   - Launch the terminal and navigate to the Devilbox directory using the command:
+1. Check that you have the Docker application up and running on your computer.
+
+2. Launch the terminal and navigate to the Devilbox directory using the command:
+     
      ```
      cd ~/Development/devilbox
      ```
 
-3. **Start the Environment**
-   - Start the entire environment by running the following command:
+3. Start the entire environment by running the following command:
+     
      ```
      docker-compose up -d php php81 httpd mysql
      ```
 
-4. **Stopping the Environment**
-   - In order to stop all Docker services, use the command:
+4. In order to stop all Docker services, use the command:
+     
      ```
      docker-compose stop
      ```
@@ -29,26 +29,36 @@ Make sure you have two terminal tabs open for easy development:
 
 ### Mac Terminal (mac-shell):
 1. Go to your project directory using:
+   
    ```
    cd ~/Development/www/your_project_directory
    ```
-   - If navigating here for the first time, run `composer install` or `composer update` to set up dependencies.
+   
+   If navigating here for the first time, run `composer install` or `composer update` to set up dependencies.
 
 ### Devilbox Shell (devilbox-shell):
-1. Navigate to the Devilbox directory:
+1. Navigate to the Devilbox directory by running:
+   
    ```
    cd ~/Development/devilbox
    ```
+   
 2. Run Devilbox shell script:
+   
    ```
    ./shell81.sh
    ```
+   
 3. Enter your project directory:
+   
    ```
    cd your_project_directory
    ```
-   - Run `composer install` or `composer update` if needed.
+   
+   Run `composer install` or `composer update` if needed.
+     
 4. Start watching for changes:
+   
    ```
    npm run watch
    ```

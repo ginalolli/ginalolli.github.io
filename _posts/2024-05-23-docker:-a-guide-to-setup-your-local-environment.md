@@ -45,7 +45,7 @@ Make sure you have two terminal tabs open for easy development:
    ```
 3. Enter your project directory:
    ```
-   cd evbox.com
+   cd your_project_directory
    ```
    - Run `composer install` or `composer update` if needed.
 4. Start watching for changes:
@@ -57,7 +57,7 @@ Make sure you have two terminal tabs open for easy development:
 - Use Git
 - Open the project in Visual Studio Code:
   ```
-  cd ~/Development/www/evbox.com
+  cd ~/Development/www/your_project_directory
   code .
   ```
 - Install Node.js modules:

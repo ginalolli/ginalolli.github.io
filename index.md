@@ -1,12 +1,11 @@
 
 <h2>About Me</h2>
 <p>
-  I am a dedicated and skilled professional with extensive experience in frontend development.
-  It has been an exciting journey creating user-friendly web applications, but I have recently discovered that my true passion lies in technical writing. With a strong foundation in both technical skills and soft skills, 
-  I am committed to continuous learning and excellence in my work.
+After dedicating myself to frontend development for many years, I've found myself at a crossroads. While building user-friendly web applications has been exciting, I've recently uncovered a new passion: technical writing. There's something incredibly satisfying about distilling complex topics into easily digestible content. As a Technical Writer, I envision myself as the bridge between intricate technologies and user understanding, translating complex concepts into accessible formats. With my technical background, I'm well-equipped to craft documentation that resonates with diverse audiences, catering to varying levels of expertise. I'm eager to leverage my skills to enhance knowledge transfer and elevate user experiences through clear, concise documentation.
 </p>
 
-<h2>Frontend Development Skills</h2>
+
+<h2>My Frontend Skills</h2>
 <ul>
   <li><strong>HTML/CSS:</strong> Semantic HTML, Flexbox</li>
   <li><strong>JavaScript:</strong> ES6+</li>
@@ -22,7 +21,7 @@
   <li><strong>Project Management:</strong> Jira, Agile methodologies, Scrum</li>
 </ul>
 
-<h2>Technical Writing Skills</h2>
+<h2>My Technical Writing Skills</h2>
 <ul>
   <li><strong>Technical Writing Tools:</strong> Markdown, XML-based authoring tools</li>
   <li><strong>Documentation Platforms:</strong> Confluence</li>
@@ -38,7 +37,7 @@
   <li><strong>Editing and Proofreading:</strong> Ensuring accuracy, consistency, and quality</li>
 </ul>
 
-<h2>Soft Skills</h2>
+<h2>My Soft Skills</h2>
 <ul>
   <li><strong>Communication:</strong> Clearly conveying information and ideas</li>
   <li><strong>Problem-Solving:</strong> Identifying issues and finding effective solutions</li>

@@ -63,8 +63,6 @@ This Quick Start Guide is designed to help you get started with your new ballpoi
 
 ## Troubleshooting Guide
 
-Here's the refined troubleshooting guide with enhancements and eliminating redundancies:
-
 | Issue                         | Possible Cause                          | Solution                                                                                              |
 |-------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------|
 | **Ink Thickens**              | Due to temperature changes              | Rub the pen gently between your hands to warm the ink.                                                |
@@ -73,6 +71,8 @@ Here's the refined troubleshooting guide with enhancements and eliminating redun
 | **Ink Leakage**               | Caused by improper cartridge insertion or overfilling | Ensure the ink cartridge is properly inserted. To prevent leaks, ensure a tight seal against temperature fluctuations. |
 | **Uneven Ink Flow or Skipping** | Resulting from a clogged or damaged tip  | Test ink flow by moving the pen in a figure-eight motion. Replace the ink cartridge or the pen if necessary. |
 | **Feathering or Fading**      | Due to incompatible parchment or environment       | Use appropriate parchment and archival-quality ink. Shield the writing from moisture or extreme temperatures. |
+
+
 ## Additional Tips
 
 - **Use Gravity**: Hold the pen with its tip pointing downwards for some time to assist in moving the ink toward the ball.

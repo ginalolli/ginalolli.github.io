@@ -1,8 +1,8 @@
 # Docker: A Guide To Setting Up Your Local Development Environment
 
-## Getting Started with Docker
+## Getting Started
 
-It's simple to start using Docker for your local development environment, just follow these steps:
+Follow these steps to start using Docker for your local development environment:
 
 
 1. Check that you have the Docker application up and running on your computer.

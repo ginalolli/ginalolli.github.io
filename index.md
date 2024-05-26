@@ -1,7 +1,7 @@
 
 <h2>About Me</h2>
 <p>
-After dedicating myself to frontend development for many years, I've found myself at a crossroads. While building user-friendly web applications has been exciting, I've recently uncovered a new passion: technical writing. There's something incredibly satisfying about distilling complex topics into easily digestible content. As a Technical Writer, I envision myself as the bridge between intricate technologies and user understanding, translating complex concepts into accessible formats. With my technical background, I'm well-equipped to craft documentation that resonates with diverse audiences, catering to varying levels of expertise. I'm eager to leverage my skills to enhance knowledge transfer and elevate user experiences through clear, concise documentation.
+After dedicating myself to frontend development for many years, I've found myself at a crossroads. While building user-friendly web applications has been exciting, I've recently uncovered a new passion: technical writing. As a developer, I've consistently played a role in producing thorough documentation as part of my responsibilities. There's something incredibly satisfying about distilling complex topics into easily digestible content. I envision myself as the bridge between intricate technologies and user understanding, translating complex concepts into accessible formats. With my technical background, I'm well-equipped to craft documentation that resonates with diverse audiences, catering to varying levels of expertise. I'm eager to leverage my skills to enhance knowledge transfer and elevate user experiences through clear, concise documentation.
 </p>
 
 
@@ -21,7 +21,7 @@ After dedicating myself to frontend development for many years, I've found mysel
   <li><strong>Project Management:</strong> Jira, Agile methodologies, Scrum</li>
 </ul>
 
-<h2>My Technical Writing Skills</h2>
+<h2>My Documentation Skills</h2>
 <ul>
   <li><strong>Technical Writing Tools:</strong> Markdown, XML-based authoring tools</li>
   <li><strong>Documentation Platforms:</strong> Confluence</li>

@@ -1,7 +1,6 @@
 # Docker: A Guide To Setting Up Your Local Development Environment
 
 ## Getting Started
-Test1
 
 Follow these steps to start using Docker for your local development environment:
 
